@@ -7,3 +7,14 @@
 header#header > div {
     border-bottom: 1px solid #dddddd85 !important;
 }
+
+a.toggle-title {
+  border: 0 !important;
+  font-weight: 500 !important;
+}
+
+.lead {
+  letter-spacing: -.05em;
+  font-size: 19.2px;
+  font-size: 1.0rem;
+}
