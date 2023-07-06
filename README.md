@@ -1,4 +1,4 @@
-# Dynamic page: 
+# Dynamic pages: 
 <Ul>
     <li>Home page </li>
     <li>Team pagee</li>
